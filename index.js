@@ -22,7 +22,8 @@ const levels = {
     3500: "Underlord",
     4500: "Lord",
     10500: "OverLord",
-    20500: "King"
+    20500: "King",
+    21000: "Emperor"
 }
 
 const startTime = Date.now();
